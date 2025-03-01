@@ -1,4 +1,7 @@
-github_repos:
-  - patterns_intra_clustering
+github_users:
+  - stchoud
 
 repo_description_lines_max: 2
+
+github_repos:
+  - stchoud.github.io
