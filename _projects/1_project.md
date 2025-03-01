@@ -5,7 +5,6 @@ description: Python/R/Bash
 img: assets/img/12.jpg
 importance: 1
 category: example
-related_publications: true
 ---
 
 Unlock the power of data with custom programming solutions. Whether you're a beginner or need specialized scripts, I offer expert development in Python, R, and Bash.
