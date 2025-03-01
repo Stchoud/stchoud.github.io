@@ -58,8 +58,8 @@ ninja.data = [{
           description: "Python/R/Bash",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-excel-vba-projects",
+          title: 'Excel/VBA projects',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
