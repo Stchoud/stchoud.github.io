@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
+    <a href='https://academyofathens.dotsoft.gr/en/research/centers/mathematics'>Mathematics Research Center, Academy of Athens</a>
+    <a href='https://school-en.med.uoa.gr/'>Medical School of Athens, National and Kapodistrian University of Athens</a>
 
 profile:
   align: right
@@ -27,4 +29,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Data scientist with a strong mathematical foundation and hands-on experience in large-scale data curation.  Proficient in Python, R, Bash, and Excel, I build and deploy robust machine learning models and specialize in bioinformatics projects.
+Data scientist with a strong mathematical foundation and hands-on experience in large-scale data curation. Proficient in Python, R, Bash, and Excel, I build and deploy robust machine learning models and specialize in bioinformatics projects.
+
+Currently, I am pursuing my PhD in Bioinformatics in collaboration with the Mathematics Research Center of the Academy of Athens and the Medical School of Athens. My PhD thesis focuses on cancer research and specifically in gaining insights over complex biological data. The goal of the thesis is to recover novel patterns of cancer initiation and progression. This work includes rigorous data curation over large datasets to exclude non-cancerous noise, and the development of machine learning models to extract statistically significant patterns. To date, a total of 42 non-reported mutational patterns have been recovered, using state-of-the-art machine learning pipelines.
