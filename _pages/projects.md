@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: services
+permalink: /services/
 description:
 nav: true
 nav_order: 3
-display_categories: [example, fun]
+display_categories: [work]
 horizontal: false
 ---
 
