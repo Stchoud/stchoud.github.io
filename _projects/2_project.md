@@ -24,8 +24,11 @@ I'll translate your complex data into visually stunning representations that res
 I'll develop tailored solutions to automate repetitive tasks, eliminate manual data entry, and create custom functions that perfectly align with your specific needs. Imagine reducing hours of tedious work to mere seconds, freeing up your team to focus on strategic initiatives. My custom VBA macros will enhance your efficiency, minimize errors, and empower you to work smarter, not harder. Experience the power of automation and unlock the full potential of Excel.
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/excel_vba.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/excel_left.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm-4 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/excel_right.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
 </div>
