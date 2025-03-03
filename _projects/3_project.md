@@ -4,7 +4,7 @@ title: Data Curation Pipelines
 description:
 img: assets/img/data_cover.png
 importance: 3
-category: example
+category: work
 ---
 
 Data is only valuable if it's clean, organized, and reliable. I'll design and implement robust data curation pipelines to transform your raw data into a valuable asset.
