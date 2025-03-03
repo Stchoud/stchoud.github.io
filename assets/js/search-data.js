@@ -55,7 +55,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-learn-programming-from-scratch",
           title: 'Learn Programming from scratch',
-          description: "Python/R/Bash",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-excel-vba-projects",
@@ -70,7 +70,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project.html";
             },},{id: "projects-machine-learning-pipelines",
           title: 'Machine Learning Pipelines',
-          description: "AI for Your Business",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
             },},{id: "projects-tutoring-mathematics",
