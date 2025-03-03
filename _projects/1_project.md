@@ -4,7 +4,7 @@ title: Learn Programming from scratch
 description: Python/R/Bash
 img: assets/img/programming.jpg
 importance: 1
-category: example
+category: work
 ---
 
 Unlock the power of data with custom programming solutions. Whether you're a beginner or need specialized scripts, I offer expert development in Python, R, and Bash.
