@@ -3,7 +3,7 @@ layout: page
 title: Data Curation Pipelines
 description:
 img: assets/img/data_cover.png
-importance: 3
+importance: 2
 category: work
 ---
 
