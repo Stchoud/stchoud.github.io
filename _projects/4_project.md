@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Machine Learning Pipelines
-description: AI for Your Business
+description:
 img: assets/img/machine_learning.png
 importance: 1
 category: work
