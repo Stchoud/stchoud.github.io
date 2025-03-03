@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Excel/VBA projects
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+description:
+img: assets/img/excel.jpg
 importance: 2
 category: example
 ---
@@ -10,7 +10,6 @@ category: example
 Stop struggling with data overload.
 Let me turn your Excel spreadsheets into dynamic, insightful tools.
 I specialize in creating custom solutions using Excel and VBA to streamline your workflows and unlock the full potential of your data.
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
