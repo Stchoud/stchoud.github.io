@@ -4,7 +4,7 @@ title: Excel/VBA projects
 description:
 img: assets/img/excel.jpg
 importance: 2
-category: example
+category: work
 ---
 
 Stop struggling with data overload.
