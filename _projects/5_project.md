@@ -2,8 +2,8 @@
 layout: page
 title: Tutoring Mathematics
 description:
-img: assets/img/12.jpg
-importance: 4
+img: assets/img/math.jpg
+importance: 5
 category: example
 ---
 
