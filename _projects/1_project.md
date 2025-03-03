@@ -2,7 +2,7 @@
 layout: page
 title: Learn Programming from scratch
 description: Python/R/Bash
-img: assets/img/12.jpg
+img: assets/img/programming.jpg
 importance: 1
 category: example
 ---
@@ -19,6 +19,7 @@ Unlock the power of data with custom programming solutions. Whether you're a beg
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/R_lessons.jpg" title="R_lessons.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
 
 ### Python
 A versatile and widely-used language, perfect for data analysis, web development, automation, and machine learning. I'll leverage Python's extensive libraries (like Pandas, NumPy, Scikit-learn) to build robust and efficient solutions tailored to your specific requirements.
