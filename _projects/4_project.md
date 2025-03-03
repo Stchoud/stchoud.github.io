@@ -4,7 +4,7 @@ title: Machine Learning Pipelines
 description: AI for Your Business
 img: assets/img/machine_learning.png
 importance: 4
-category: example
+category: work
 ---
 
 Unlock the potential of artificial intelligence and machine learning to gain a competitive edge. I'll build custom machine learning pipelines tailored to your specific needs, from data preprocessing to model deployment.
