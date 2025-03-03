@@ -61,7 +61,7 @@ Are you grappling with the complexities of advanced mathematics? Do you need per
         * Divisibility, Primes, Congruences
         * Diophantine Equations
 * **Numerical Analysis**
-    *Methods for Finding Roots of Non-linear Equations**
+    * Methods for Finding Roots of Non-linear Equations
         * Bisection Method
         * Newton's Method
         * Secant Method
