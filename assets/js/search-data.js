@@ -10,18 +10,18 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/Publications/";
           },
         },{id: "nav-services",
-          title: "services",
+          title: "Services",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/services/";
+            window.location.href = "/Services/";
           },
         },{id: "nav-repositories",
           title: "repositories",
