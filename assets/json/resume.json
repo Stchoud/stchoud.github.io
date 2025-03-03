@@ -11,11 +11,20 @@
     {
       "name": "Mathematics Research Center, Academy of Athens",
       "position": "Applications of Artificial Intelligence in Medicine and Biotechnology",
-      "url": "https://example.com",
+      "url": "https://academyofathens.dotsoft.gr/en/research/centers/mathematics",
       "startDate": "2024-10-01",
       "endDate": "2025-12-01",
       "summary": "Funding Body: National Development Program (NDP) 2021-25 (ΟΠΣ 5223471). Principal Investigator: G. Kastis. Co-investigators: A Fokas, N. Dikaios, K. Kalimeris, G. Papanastasiou, N. Protonotarios.",
       "highlights": ["Machine Learning", "Artificial Intelligence"]
+    },
+     {
+      "name": "Self-Employed",
+      "position": "Freelancing",
+      "url": "https://stchoud.github.io/",
+      "startDate": "2020-01-01",
+      "endDate": "Present",
+      "summary": "Services included in 'Services' page",
+      "highlights": ["Machine Learning Projects", "Data Science Projects", "Excel/VBA Projects", "Mathematics Tutoring", "Programming Tutoring"]
     }
   ],
   "education": [
@@ -88,30 +97,6 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
