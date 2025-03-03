@@ -5,18 +5,17 @@
     "image": "",
     "email": "st.xoud@gmail.com",
     "phone": "+30 6985793600",
-    "url": "https://stchoud.github.io/",
-    "summary": "A mathematician pursuing his PhD in Bioinformatics"
+    "url": "https://stchoud.github.io/"
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Mathematics Research Center, Academy of Athens",
+      "position": "Applications of Artificial Intelligence in Medicine and Biotechnology",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "2024-10-01",
+      "endDate": "2025-12-01",
+      "summary": "Funding Body: National Development Program (NDP) 2021-25 (ΟΠΣ 5223471). Principal Investigator: G. Kastis. Co-investigators: A Fokas, N. Dikaios, K. Kalimeris, G. Papanastasiou, N. Protonotarios.",
+      "highlights": ["Machine Learning", "Artificial Intelligence"]
     }
   ],
   "education": [
