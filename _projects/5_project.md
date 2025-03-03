@@ -4,7 +4,7 @@ title: Tutoring Mathematics
 description:
 img: assets/img/math.jpg
 importance: 5
-category: example
+category: work
 ---
 
 Struggling with math?  I provide personalized tutoring to help you build a strong foundation and achieve your academic goals.
