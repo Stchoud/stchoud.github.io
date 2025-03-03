@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle:
     <a href='https://academyofathens.dotsoft.gr/en/research/centers/mathematics'>Mathematics Research Center, Academy of Athens</a>
