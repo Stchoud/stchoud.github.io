@@ -22,23 +22,20 @@ Categorize and classify your data with precision using our advanced machine lear
 ### Dimensionality Reduction
 Tame the complexity of your data with our dimensionality reduction expertise. I can help you simplify your datasets without sacrificing valuable information. Machine learning techniques can reduce the number of variables while preserving the essential patterns and relationships. This leads to faster processing times, improved model performance, and easier interpretation of results. Whether you're working with image data, text data, or any other type of high-dimensional data, our dimensionality reduction solutions can help you overcome the challenges of "the curse of dimensionality" and extract meaningful insights. I'll work with you to find the optimal balance between simplicity and information content, ensuring that your data remains manageable and insightful.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/model.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/linreg.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/dec_tree.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/svm.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
