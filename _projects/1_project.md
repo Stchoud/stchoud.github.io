@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learn Programming from scratch
-description: Python/R/Bash
+description:
 img: assets/img/programming.jpg
 importance: 5
 category: work
