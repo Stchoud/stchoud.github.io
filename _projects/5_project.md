@@ -3,7 +3,7 @@ layout: page
 title: Tutoring Mathematics
 description:
 img: assets/img/math.jpg
-importance: 5
+importance: 4
 category: work
 ---
 
