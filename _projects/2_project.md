@@ -3,7 +3,7 @@ layout: page
 title: Excel/VBA projects
 description:
 img: assets/img/excel.jpg
-importance: 2
+importance: 3
 category: work
 ---
 
