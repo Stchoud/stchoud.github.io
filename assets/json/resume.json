@@ -25,6 +25,13 @@
       "endDate": "Present",
       "summary": "Services included in 'Services' page",
       "highlights": ["Machine Learning Projects", "Data Science Projects", "Excel/VBA Projects", "Mathematics Tutoring", "Programming Tutoring"]
+    },
+    {
+      "name": "Ballroom Dance Instructor",
+      "position": "The Dance Club, The Mall of Dance",
+      "url": "https://www.thedanceclub.gr/",
+      "startDate": "2016-09-01",
+      "endDate": "2021-08-01"
     }
   ],
   "education": [
