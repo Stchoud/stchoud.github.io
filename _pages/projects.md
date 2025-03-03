@@ -1,7 +1,7 @@
 ---
 layout: page
-title: services
-permalink: /services/
+title: Services
+permalink: /Services/
 description:
 nav: true
 nav_order: 3
