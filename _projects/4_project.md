@@ -2,8 +2,8 @@
 layout: page
 title: Machine Learning Pipelines
 description: AI for Your Business
-img: assets/img/12.jpg
-importance: 1
+img: assets/img/machine_learning.png
+importance: 4
 category: example
 ---
 
