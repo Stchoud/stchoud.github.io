@@ -4,7 +4,7 @@ title: About
 permalink: /
 subtitle:
     <a href='https://academyofathens.dotsoft.gr/en/research/centers/mathematics'>Mathematics Research Center, Academy of Athens<br></a>
-    <a href='https://school-en.med.uoa.gr/'>Medical School of Athens, National and Kapodistrian University of Athens</a>
+    <a href='https://school-en.med.uoa.gr/'>School of Medicine, National and Kapodistrian University of Athens</a>
 
 profile:
   align: right
