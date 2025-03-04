@@ -78,9 +78,9 @@ module ExternalPosts
     def parse_published_date(published_date)
       case published_date
       when String
-        Time.parse(published_date).utc
+        Time.parse(published_date).strftime("%d.%m.%Y")
       when Date
-        published_date.to_time.utc
+        published_date.to_time.strftime("%d.%m.%Y")
       else
         raise "Invalid date format for #{published_date}"
       end
