@@ -12,7 +12,7 @@
       "name": "Mathematics Research Center, Academy of Athens",
       "position": "Applications of Artificial Intelligence in Medicine and Biotechnology",
       "url": "https://academyofathens.dotsoft.gr/en/research/centers/mathematics",
-      "startDate": "2024-10-01",
+      "startDate": "10-2024",
       "endDate": "Present",
       "summary": "Funding Body: National Development Program (NDP) 2021-25 (ΟΠΣ 5223471). Principal Investigator: G. Kastis. Co-investigators: A Fokas, N. Dikaios, K. Kalimeris, G. Papanastasiou, N. Protonotarios.",
       "highlights": ["Machine Learning", "Artificial Intelligence"]
@@ -21,7 +21,7 @@
       "name": "Self-Employed",
       "position": "Freelancing",
       "url": "https://stchoud.github.io/",
-      "startDate": "2020-01-01",
+      "startDate": "01-2020",
       "endDate": "Present",
       "summary": "Services included in 'Services' page",
       "highlights": ["Machine Learning Projects", "Data Science Projects", "Excel/VBA Projects", "Mathematics Tutoring", "Programming Tutoring"]
@@ -30,8 +30,8 @@
       "name": "Ballroom Dance Instructor",
       "position": "The Dance Club, The Mall of Dance",
       "url": "https://www.thedanceclub.gr/",
-      "startDate": "2016-09-01",
-      "endDate": "2021-08-01"
+      "startDate": "09-2016",
+      "endDate": "08-2021"
     }
   ],
   "education": [
@@ -41,8 +41,8 @@
       "url": "https://school-en.med.uoa.gr/",
       "area": "Mathematics",
       "studyType": "PhD",
-      "startDate": "2024-03-01",
-      "endDate": "2027-03-01"
+      "startDate": "03-2024",
+      "endDate": "03-2027"
     },
     {
       "institution": "Department of Mathematics, National and Kapodistrian University of Athens",
@@ -50,8 +50,8 @@
       "url": "https://en.math.uoa.gr/",
       "area": "Applied Mathematics",
       "studyType": "Postgraduate",
-      "startDate": "2020-09-01",
-      "endDate": "2022-07-01"
+      "startDate": "09-2020",
+      "endDate": "07-2022"
     },
     {
       "institution": "Department of Mathematics, National and Kapodistrian University of Athens",
@@ -59,22 +59,22 @@
       "url": "https://en.math.uoa.gr/",
       "area": "Mathematics",
       "studyType": "Undergraduate",
-      "startDate": "2015-09-01",
-      "endDate": "2020-09-01"
+      "startDate": "09-2015-01",
+      "endDate": "09-2020-01"
     }
   ],
   "publications": [
     {
       "name": "Intra-clustering analysis reveals tissue-specific mutational patterns",
       "publisher": "Computer Methods and Programs in Biomedicine",
-      "releaseDate": "2025-02-27",
+      "releaseDate": "27-02-2025",
       "url": "https://www.sciencedirect.com/science/article/abs/pii/S0169260725000987",
       "summary": "The identification of tissue-specific mutational patterns associated with cancer is challenging due to the low frequency of certain mutations and the high variability among tumors within the same cancer type. To address the inter-tumoral heterogeneity issue, our study aims to uncover infrequent mutational patterns by proposing a novel intra-clustering analysis.  Network Graph of 8303 patients and 198 genes was constructed using single-point-mutation data from The Cancer Genome Atlas (TCGA). Patient-gene groups were retrieved with the parallel use of two separate methodologies based on the: (a) Barber’s modularity index, and (b) network dynamics. An intra-clustering analysis was employed to explore the patterns within smaller patient subgroups in two phases: i) to determine the significant presence of a gene with a cancer type using the Fisher’s exact test and ii) to determine gene-to-gene patterns using multiple correspondence analysis and DISCOVER. The results are followed by a Benjamini–Hochberg false discovery rate of 5%. This analysis was applied over 24 statistically meaningful groups of 2619 patients spanning 21 cancer types and it recovered 42 mutational patterns that are not reported in the TCGA consortium publications. Notably, our findings: (i) suggest that AMER1 mutations are a putative separative element between colon and rectal adenocarcinomas, (ii) highlight the significant presence of RAC1 in head and neck squamous cell carcinoma (iii) suggest that EP300 mutations in head and neck squamous cell carcinoma are irrelevant of the HPV status of the patients and (iv) show that mutational-based clusters can contain patients with contrasting genetic alterations. The proposed intra-clustering analysis extracted statistically significant relationships within clusters, uncovering putative clinically relevant connections and disentangling mutational heterogeneity."
     },
     {
       "name": "Solving High-Dimensional Problems in Statistical Modelling: A Comparative Study",
       "publisher": "Mathematics",
-      "releaseDate": "2021-07-30",
+      "releaseDate": "30-07-2021",
       "url": "https://www.mdpi.com/2227-7390/9/15/1806",
       "summary": "In this work, we present numerical methods appropriate for parameter estimation in high-dimensional statistical modelling. The solution of these problems is not unique and a crucial question arises regarding the way that a solution can be found. A common choice is to keep the corresponding solution with the minimum norm. There are cases in which this solution is not adequate and regularisation techniques have to be considered. We classify specific cases for which regularisation is required or not. We present a thorough comparison among existing methods for both estimating the coefficients of the model which corresponds to design matrices with correlated covariates and for variable selection for supersaturated designs. An extensive analysis for the properties of design matrices with correlated covariates is given. Numerical results for simulated and real data are presented."
     }
