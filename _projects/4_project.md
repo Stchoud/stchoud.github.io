@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Machine Learning Pipelines
+title: Machine Learning Algorithms
 description:
 img: assets/img/machine_learning.png
 importance: 1
