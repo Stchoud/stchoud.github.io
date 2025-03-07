@@ -29,11 +29,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Mathematician with a strong foundation in machine learning and hands-on experience in large-scale data curation. Proficient in Python, R, Bash, and Excel, I specialize in developing and deploying robust machine learning models, particularly in bioinformatics.
+Mathematician with a strong foundation in machine learning and hands-on experience in large-scale data curation. Proficient in Python, R, Bash, and Excel, I specialize in developing and deploying machine learning algorithms, particularly in bioinformatics.
 
-I am currently pursuing a PhD in Bioinformatics in collaboration with the Mathematics Research Center of the Academy of Athens and the Medical School of Athens. My research focuses on cancer biology, aiming to gain deeper insights into complex biological data and uncover novel patterns in cancer initiation and progression. This work involves rigorous data curation over large datasets to exclude non-cancerous noise, as well as the development of machine learning models to extract statistically significant patterns. To this date, my research has identified 42 previously unreported mutational patterns using state-of-the-art machine learning pipelines.
+I am currently pursuing a PhD in Bioinformatics at the Mathematics Research Center of the Academy of Athens and the National and Kapodistrian University of Athens. My research focuses on cancer informatics, aiming to uncover novel patterns in cancer initiation and progression. This work involves rigorous data curation over large datasets to exclude non-cancerous noise, as well as the development of machine learning algorithms, as well as the development of network graphs to extract statistically significant patterns. To this date, my research has identified 42 previously unreported mutational patterns using state-of-the-art algorithms.
 
-I am passionate about translating complex data into meaningful insights and empowering others through data science and education. Whether you need assistance with a specific project, ongoing support, or personalized tutoring, I offer tailored solutions to meet your unique needs. I strive to help individuals and organizations harness the power of data to solve complex problems, make informed decisions, and achieve their goals.
+I am passionate about translating complex data into meaningful models and empowering others through data science and education. Whether you need assistance with a specific project, ongoing support, or personalized tutoring, I offer tailored solutions to meet your unique needs.
 
 My expertise includes:
 
@@ -51,6 +51,5 @@ Providing personalized guidance and support for university-level mathematics cou
 
 <a href='https://stchoud.github.io/projects/1_project.html'>Programming Lessons<br></a>
 Teaching practical programming skills in Python, R, and Bash, tailored to your specific learning goals.
-
 
 With a strong analytical mindset, a deep understanding of data-driven decision-making, and a commitment to education, I am dedicated to helping others navigate the complexities of data science and mathematics.
