@@ -8,15 +8,6 @@
     "url": "https://stchoud.github.io/"
   },
   "work": [
-    {
-      "name": "Mathematics Research Center, Academy of Athens",
-      "position": "Applications of Artificial Intelligence in Medicine and Biotechnology",
-      "url": "https://academyofathens.dotsoft.gr/en/research/centers/mathematics",
-      "startDate": "10-2024",
-      "endDate": "Present",
-      "summary": "Funding Body: National Development Program (NDP) 2021-25 (ΟΠΣ 5223471). Principal Investigator: G. Kastis. Co-investigators: A Fokas, N. Dikaios, K. Kalimeris, G. Papanastasiou, N. Protonotarios.",
-      "highlights": ["Machine Learning", "Artificial Intelligence"]
-    },
      {
       "name": "Self-Employed",
       "position": "Freelancing",
@@ -61,6 +52,15 @@
       "studyType": "Undergraduate",
       "startDate": "09-2015-01",
       "endDate": "09-2020-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Applications of Artificial Intelligence in Medicine and Biotechnology",
+      "date": "2024-10-01",
+      "awarder": "Mathematics Research Center, Academy of Athens",
+      "url": "https://www.academyofathens.gr/en/ereyna/kentra/ereyna-mathimatikon/ereynetika-programmata",
+      "summary": "Funding Body: National Development Program (NDP) 2021-25 (ΟΠΣ 5223471). Principal Investigator: G. Kastis. Co-investigators: A Fokas, N. Dikaios, K. Kalimeris, G. Papanastasiou, N. Protonotarios.'"
     }
   ],
   "publications": [
