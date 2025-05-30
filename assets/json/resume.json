@@ -12,17 +12,26 @@
       "name": "Self-Employed",
       "position": "Freelancing",
       "url": "https://stchoud.github.io/",
-      "startDate": "01-2020",
+      "startDate": "09-2020",
       "endDate": "Present",
-      "summary": "Services included in 'Services' page",
+      "summary": "Provided comprehensive instruction in diverse mathematical fields, including Python and R programming, to over 80 undergraduate and postgraduate students. Delivered successful freelancing services in Python/R/VBA development and data science projects, including data curation, analysis, and model implementation for various clients, explaining complex technical subjects in an accessible manner.",
       "highlights": ["Machine Learning Projects", "Data Science Projects", "Excel/VBA Projects", "Mathematics Tutoring", "Programming Tutoring"]
+    },
+    {
+      "name": "Elementary School Teacher",
+      "position": "Zygouraki-Leontioy Centre of Creative Activities for Children",
+      "url": "https://mysafari.gr/listing/zygouraki-leontiou-kentro-meletis-agioi-anargyroi/",
+      "startDate": "01-2024",
+      "endDate": "06-2024",
+      "summary": "Tutored and supported 8+ elementary students per hour in completing math assignments."
     },
     {
       "name": "Ballroom Dance Instructor",
       "position": "The Dance Club, The Mall of Dance",
       "url": "https://www.thedanceclub.gr/",
       "startDate": "09-2016",
-      "endDate": "08-2021"
+      "endDate": "07-2022",
+      "summary": "Taught, choreographed, and competed in Latin, European, and Modern ballroom dances with students aged 15-65. Mentored 5 students who are now professional dancers."
     }
   ],
   "education": [
@@ -32,8 +41,7 @@
       "url": "https://school-en.med.uoa.gr/",
       "area": "Bioinformatics",
       "studyType": "PhD",
-      "startDate": "03-2024",
-      "endDate": "03-2027"
+      "startDate": "03-2024"
     },
     {
       "institution": "Department of Mathematics, National and Kapodistrian University of Athens",
@@ -42,7 +50,8 @@
       "area": "Applied Mathematics",
       "studyType": "Postgraduate",
       "startDate": "09-2020",
-      "endDate": "07-2022"
+      "endDate": "07-2022",
+      "summary": "Syllabus included advanced topics in statistical simulation, statistics of machine learning, nu-merical methods for ODEs, and numerical linear algebra. Dissertation: ``Network Graphs of Cancer Mutations’’ in https://pergamos.lib.uoa.gr/uoa/dl/object/3237319."
     },
     {
       "institution": "Department of Mathematics, National and Kapodistrian University of Athens",
@@ -50,14 +59,14 @@
       "url": "https://en.math.uoa.gr/",
       "area": "Mathematics",
       "studyType": "Undergraduate",
-      "startDate": "09-2015-01",
-      "endDate": "09-2020-01"
+      "startDate": "09-2015",
+      "endDate": "09-2020"
     }
   ],
   "awards": [
     {
       "title": "Applications of Artificial Intelligence in Medicine and Biotechnology",
-      "date": "2024-10-01",
+      "date": "10-2024",
       "awarder": "Mathematics Research Center, Academy of Athens",
       "url": "https://www.academyofathens.gr/en/ereyna/kentra/ereyna-mathimatikon/ereynetika-programmata",
       "summary": "Funding Body: National Development Program (NDP) 2021-25 (ΟΠΣ 5223471) (27.725 €). Principal Investigator: G. Kastis. Co-investigators: A Fokas, N. Dikaios, K. Kalimeris, G. Papanastasiou, N. Protonotarios.'"
