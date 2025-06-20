@@ -14,7 +14,7 @@
       "url": "https://stchoud.github.io/",
       "startDate": "09-2020",
       "endDate": "Present",
-      "summary": "Provided comprehensive instruction in diverse mathematical fields, including Python and R programming, to over 80 undergraduate and postgraduate students. Delivered successful freelancing services in Python/R/VBA development and data science projects, including data curation, analysis, and model implementation for various clients, explaining complex technical subjects in an accessible manner.",
+      "summary": "Provided comprehensive courses in diverse mathematical fields to over 80 undergraduate and postgraduate students. I also guided students through their assignments in Python, R, and VBA, covering aspects of development and data science projects, including data curation, statistical analysis, mathematical modelling, and effectively communicated complex technical subjects in an accessible manner.",
       "highlights": ["Machine Learning Projects", "Data Science Projects", "Excel/VBA Projects", "Mathematics Tutoring", "Programming Tutoring"]
     },
     {
@@ -41,7 +41,8 @@
       "url": "https://school-en.med.uoa.gr/",
       "area": "Bioinformatics",
       "studyType": "PhD",
-      "startDate": "03-2024"
+      "startDate": "03-2024",
+      "summary": "Identified 42 previously unreported mutational patterns in cancer initiation and progression. Built state-of-the-art machine learning and data curation pipelines using Python and R. Optimized computational workflows and solved critical bottlenecks. Created rigorously tested and clean code for reproducible results."
     },
     {
       "institution": "Department of Mathematics, National and Kapodistrian University of Athens",
