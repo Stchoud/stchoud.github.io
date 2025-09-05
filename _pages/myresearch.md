@@ -2,6 +2,9 @@
 layout: page
 title: My Research
 permalink: /my-research
+description:
+nav: true
+nav_order: 2
 ---
 
 My research focuses on cancer informatics, aiming to uncover novel patterns in cancer initiation and progression.
