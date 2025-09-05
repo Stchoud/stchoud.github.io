@@ -4,6 +4,7 @@ title: My Research
 permalink: /my-research
 ---
 
+# Research Overview
 My research focuses on cancer informatics, aiming to uncover novel patterns in cancer initiation and progression.
 This work involves rigorous data curation over large datasets to exclude non-cancerous noise, as well as the
 development of machine learning algorithms and network graphs to extract statistically significant patterns.
@@ -22,12 +23,9 @@ multiple correspondence analysis and DISCOVER. The results are followed by a Ben
 The proposed intra-clustering analysis extracted statistically significant relationships within clusters,
 uncovering putative clinically relevant connections and disentangling mutational heterogeneity.
 
-# Research Overview
-<div style="text-align:center"><img src="assets/myresearch/research-overview.png" style="width: 600px; /></div>
+<p align="center"> <img src="assets/myresearch/research-overview.png" width=500> </p>
 
 --- 
-
-[![Analytics Overview](assets/myresearch/analytics-overview.png)]
 
 A schematic overview of the proposed method for the constructed network using a subset of genes and patients
 of the Infomap pipeline and the MODULAR pipeline:
@@ -40,11 +38,11 @@ The Benjamini-Hochberg false discovery rate method was employed on each cluster 
 significant if the adjusted p-value was lower than $0.05$. The cases of the single gene significance and pattern significance were treated separately.
 - Step 5: Visualization of the significant relations per cancer type.
 
+<p align="center"> <img src="assets/myresearch/analytics-overview.png" width=500> </p>
+
 ---
 
-# Network Overview
-<div style="text-align:center"><img src="assets/myresearch/network-overview.png" style="width: 600px; /></div>
-
+# Network and Node Analysis
 - (A) A view of the network in unified clusters (See Supplementary Information for details on the unified clusters).
 The x-axis contains only patients that are clustered from any pipeline. If a patient is clustered from both pipelines,
 the corresponding node is presented at the left side of the axis. On the other hand if a patient is clustered from a single pipeline,
@@ -61,12 +59,12 @@ of the null models and the network is apparent.
 The black dot corresponds to the number of genes of the corresponding classification assigned in clusters. The gene classification is  described
 at the legend below the plot.
 
+<p align="center"> <img src="assets/myresearch/network-overview.png" width=500> </p>
+
 ---
 
 # Results
-<div style="text-align:center"><img src="assets/myresearch/results.png" style="width: 600px; /></div>
-
- This figure summarizes the significant relations and the number of clustered patients per cancer type.
+This figure summarizes the significant relations and the number of clustered patients per cancer type.
 A significant relation is referred to as significant if the adjusted p-value from the Benjamini-Hochberg false
 discovery rate is lower than $0.05$. At the left heatmap, the significant cancer-gene relations are marked in red.
 At the center, the significant gene-to-gene relations are marked in a color. If the color is red, the significant
@@ -74,4 +72,7 @@ pattern is a pattern of mutual exclusivity, and if the color is blue, the signif
 co-occurrence. At the right, the length of each bar of the bar plot is equivalent to the number of patients of the
 curated dataset of the cancer type corresponding to this bar. Furthermore, the black dot indicates the number of
 patients being clustered in the corresponding cancer type.
+
+<p align="center"> <img src="assets/myresearch/results.png" width=500> </p>
+
 
