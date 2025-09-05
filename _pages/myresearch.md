@@ -22,11 +22,13 @@ multiple correspondence analysis and DISCOVER. The results are followed by a Ben
 The proposed intra-clustering analysis extracted statistically significant relationships within clusters,
 uncovering putative clinically relevant connections and disentangling mutational heterogeneity.
 
-[![Research Overview](assets/myresearch/research-overview.png)]
+# Research Overview
+<div style="text-align:center"><img src="assets/myresearch/research-overview.png" style="width: 600px; /></div>
 
 --- 
 
 [![Analytics Overview](assets/myresearch/analytics-overview.png)]
+
 A schematic overview of the proposed method for the constructed network using a subset of genes and patients
 of the Infomap pipeline and the MODULAR pipeline:
 - Step 1: The network was created from somatic-point-mutation data and is, by default, bipartite.
@@ -40,7 +42,9 @@ significant if the adjusted p-value was lower than $0.05$. The cases of the sing
 
 ---
 
-[![Network Overview](assets/myresearch/network-overview.png)]
+# Network Overview
+<div style="text-align:center"><img src="assets/myresearch/network-overview.png" style="width: 600px; /></div>
+
 - (A) A view of the network in unified clusters (See Supplementary Information for details on the unified clusters).
 The x-axis contains only patients that are clustered from any pipeline. If a patient is clustered from both pipelines,
 the corresponding node is presented at the left side of the axis. On the other hand if a patient is clustered from a single pipeline,
@@ -59,7 +63,9 @@ at the legend below the plot.
 
 ---
 
-[![Results](assets/myresearch/results.png)]
+# Results
+<div style="text-align:center"><img src="assets/myresearch/results.png" style="width: 600px; /></div>
+
  This figure summarizes the significant relations and the number of clustered patients per cancer type.
 A significant relation is referred to as significant if the adjusted p-value from the Benjamini-Hochberg false
 discovery rate is lower than $0.05$. At the left heatmap, the significant cancer-gene relations are marked in red.
