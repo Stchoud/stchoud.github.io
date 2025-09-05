@@ -23,7 +23,7 @@ multiple correspondence analysis and DISCOVER. The results are followed by a Ben
 The proposed intra-clustering analysis extracted statistically significant relationships within clusters,
 uncovering putative clinically relevant connections and disentangling mutational heterogeneity.
 
-<p align="center"> <img src="assets/myresearch/research-overview.png" width=500> </p>
+<p align="center"> <img src="assets/myresearch/research-overview.png" width=840> </p>
 
 --- 
 
@@ -38,7 +38,7 @@ The Benjamini-Hochberg false discovery rate method was employed on each cluster 
 significant if the adjusted p-value was lower than $0.05$. The cases of the single gene significance and pattern significance were treated separately.
 - Step 5: Visualization of the significant relations per cancer type.
 
-<p align="center"> <img src="assets/myresearch/analytics-overview.png" width=500> </p>
+<p align="center"> <img src="assets/myresearch/analytics-overview.png" width=750> </p>
 
 ---
 
@@ -59,7 +59,7 @@ of the null models and the network is apparent.
 The black dot corresponds to the number of genes of the corresponding classification assigned in clusters. The gene classification is  described
 at the legend below the plot.
 
-<p align="center"> <img src="assets/myresearch/network-overview.png" width=500> </p>
+<p align="center"> <img src="assets/myresearch/network-overview.png" width=750> </p>
 
 ---
 
@@ -73,6 +73,6 @@ co-occurrence. At the right, the length of each bar of the bar plot is equivalen
 curated dataset of the cancer type corresponding to this bar. Furthermore, the black dot indicates the number of
 patients being clustered in the corresponding cancer type.
 
-<p align="center"> <img src="assets/myresearch/results.png" width=500> </p>
+<p align="center"> <img src="assets/myresearch/results.png" width=840> </p>
 
 
