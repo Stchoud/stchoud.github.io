@@ -4,10 +4,12 @@ title: My Research
 permalink: /my-research
 ---
 
-# Research Overview
 My research focuses on cancer informatics, aiming to uncover novel patterns in cancer initiation and progression.
 This work involves rigorous data curation over large datasets to exclude non-cancerous noise, as well as the
 development of machine learning algorithms and network graphs to extract statistically significant patterns.
+
+# Research Overview
+
 
 My latest work was focused in the identification of tissue-specific mutational patterns associated with cancer.
 This is a challenging task due to the low frequency of certain mutations and the high variability among tumors within
