@@ -1,0 +1,11 @@
+---
+layout: page
+title: My Research
+permalink: /my-research
+---
+
+ My research focuses on cancer informatics, aiming to uncover novel patterns in cancer initiation and progression.
+ This work involves rigorous data curation over large datasets to exclude non-cancerous noise, as well as the
+ development of machine learning algorithms and network graphs to extract statistically significant patterns.
+ To this date, my research has identified 42 previously unreported mutational patterns using state-of-the-art algorithms.
+ Briefly, the work is showcases here:
