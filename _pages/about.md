@@ -33,8 +33,10 @@ I'm a mathematician with over five years of experience designing, developing, an
 
 I am currently pursuing a PhD in Bioinformatics at the Mathematics Research Center of the Academy of Athens and the National and Kapodistrian University of Athens. My research focuses on cancer informatics, aiming to uncover novel patterns in cancer initiation and progression. This work involves rigorous data curation over large datasets to exclude non-cancerous noise, as well as the development of machine learning algorithms and of network graphs to extract statistically significant patterns. To this date, my research has identified 42 previously unreported mutational patterns using state-of-the-art algorithms.
 
-# My toolset:
 
 <p align="center"> <img src="assets/myresearch/toolset.png" width=840> </p>
+
+---
+
 
 
