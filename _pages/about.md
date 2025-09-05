@@ -29,27 +29,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Mathematician with a strong foundation in machine learning and hands-on experience in large-scale data curation. Proficient in Python, R, Bash, and Excel, I specialize in developing and deploying machine learning algorithms, particularly in bioinformatics.
+I'm a mathematician with over five years of experience designing, developing, and optimizing robust ETL pipelines and data processing workflows using Python and R. My PhD research in bioinformatics has given me hands-on experience building automated data curation pipelines to handle complex, large-scale biological data. I'm skilled at identifying and resolving data flow bottlenecks and have a proven track record of creating clean, rigorously tested code for reproducible results. I am eager to leverage my strong analytical background to contribute to efficient and scalable data infrastructure.
 
-I am currently pursuing a PhD in Bioinformatics at the Mathematics Research Center of the Academy of Athens and the National and Kapodistrian University of Athens. My research focuses on cancer informatics, aiming to uncover novel patterns in cancer initiation and progression. This work involves rigorous data curation over large datasets to exclude non-cancerous noise, as well as the development of machine learning algorithms, as well as the development of network graphs to extract statistically significant patterns. To this date, my research has identified 42 previously unreported mutational patterns using state-of-the-art algorithms.
+I am currently pursuing a PhD in Bioinformatics at the Mathematics Research Center of the Academy of Athens and the National and Kapodistrian University of Athens. My research focuses on cancer informatics, aiming to uncover novel patterns in cancer initiation and progression. This work involves rigorous data curation over large datasets to exclude non-cancerous noise, as well as the development of machine learning algorithms and of network graphs to extract statistically significant patterns. To this date, my research has identified 42 previously unreported mutational patterns using state-of-the-art algorithms.
 
-I am passionate about translating complex data into meaningful models and empowering others through data science and education. Whether you need assistance with a specific project, ongoing support, or personalized tutoring, I offer tailored solutions to meet your unique needs.
+# My toolset:
 
-My expertise includes:
+<p align="center"> <img src="assets/myresearch/toolset.png" width=840> </p>
 
-<a href='https://stchoud.github.io/projects/4_project.html'>Machine Learning<br></a>
-Building and deploying custom machine learning models for prediction, classification, clustering, and more.
 
-<a href='https://stchoud.github.io/projects/3_project.html'>Data Curation<br></a>
-Cleaning, transforming, and preparing data for analysis, ensuring accuracy, consistency, and reliability.
-
-<a href='https://stchoud.github.io/projects/2_project.html'>Excel Projects<br></a>
-Developing advanced Excel solutions, including macros, dashboards, and data visualizations.
-
-<a href='https://stchoud.github.io/projects/5_project.html'>Mathematics Tutoring<br></a>
-Providing personalized guidance and support for university-level mathematics courses, from calculus and linear algebra to probabilities and statistics.
-
-<a href='https://stchoud.github.io/projects/1_project.html'>Programming Lessons<br></a>
-Teaching practical programming skills in Python, R, and Bash, tailored to your specific learning goals.
-
-With a strong analytical mindset, a deep understanding of data-driven decision-making, and a commitment to education, I am dedicated to helping others navigate the complexities of data science and mathematics.
