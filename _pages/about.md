@@ -29,13 +29,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a mathematician with over five years of experience designing, developing, and optimizing robust ETL pipelines and data processing workflows using Python and R. My PhD research in bioinformatics has given me hands-on experience building automated data curation pipelines to handle complex, large-scale biological data. I'm skilled at identifying and resolving data flow bottlenecks and have a proven track record of creating clean, rigorously tested code for reproducible results. I am eager to leverage my strong analytical background to contribute to efficient and scalable data infrastructure.
+I'm a mathematician with over five years of experience designing, developing, and optimizing robust ETL pipelines and data processing workflows using Python and R. I am currently pursuing a PhD in Bioinformatics at the Mathematics Research Center of the Academy of Athens and the National and Kapodistrian University of Athens. My research focuses on cancer informatics, aiming to uncover novel patterns in cancer initiation and progression. This work involves rigorous data curation over large datasets to exclude non-cancerous noise, as well as the development of machine learning algorithms and network graphs to extract statistically significant patterns. To this date, my research has identified 42 previously unreported mutational patterns using state-of-the-art algorithms.
 
-I am currently pursuing a PhD in Bioinformatics at the Mathematics Research Center of the Academy of Athens and the National and Kapodistrian University of Athens. My research focuses on cancer informatics, aiming to uncover novel patterns in cancer initiation and progression. This work involves rigorous data curation over large datasets to exclude non-cancerous noise, as well as the development of machine learning algorithms and of network graphs to extract statistically significant patterns. To this date, my research has identified 42 previously unreported mutational patterns using state-of-the-art algorithms.
+This work has provided me with hands-on experience building automated data curation pipelines to handle complex, large-scale biological data. I'm skilled at identifying and resolving data flow bottlenecks and have a proven track record of creating clean, rigorously tested code for reproducible results. My recent completion of the IBM Data Engineering Professional Certificate has further strengthened my expertise in building scalable data infrastructure and applying industry best practices. I am eager to leverage my strong analytical background and new professional credential to contribute to efficient and scalable data infrastructure.
 
 
-<p align="center"> <img src="assets/myresearch/toolset.png" width=520> </p>
-<p align="center"> <img src="assets/myresearch/toolset2.png" width=520> </p>
+<p align="center"> <img src="assets/myresearch/toolset.png" width=840> </p>
 
 ---
 
