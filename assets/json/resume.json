@@ -36,7 +36,7 @@
   ],
   "education": [
     {
-      "institution": "School of Medicine, National and Kapodistrian University of Athens",
+      "institution": "Mathematics Research Center, Academy of Athens| School of Medicine, NKUA",
       "location": "Athens, Greece",
       "url": "https://school-en.med.uoa.gr/",
       "area": "Bioinformatics",
@@ -64,13 +64,12 @@
       "endDate": "09-2020"
     }
   ],
-  "awards": [
+  "certificates": [
     {
-      "title": "Applications of Artificial Intelligence in Medicine and Biotechnology",
-      "date": "10-2024",
-      "awarder": "Mathematics Research Center, Academy of Athens",
-      "url": "https://www.academyofathens.gr/en/ereyna/kentra/ereyna-mathimatikon/ereynetika-programmata",
-      "summary": "Funding Body: National Development Program (NDP) 2021-25 (ΟΠΣ 5223471) (27.725 €). Principal Investigator: G. Kastis. Co-investigators: A Fokas, N. Dikaios, K. Kalimeris, G. Papanastasiou, N. Protonotarios.'"
+      "title": "IBM Data Engineering",
+      "date": "09-2025",
+      "awarder": "IBM| Coursera",
+      "summary": "Professional Certificate in Data Engineering, with coursework in Python for Data Science, Relational Databases & SQL, ETL & Data Pipelines, Data Warehousing, Big Data (Spark, Hadoop), Machine Learning, and BI Dashboards (IBM Cognos Analytics, Google Looker).'"
     }
   ],
   "publications": [
