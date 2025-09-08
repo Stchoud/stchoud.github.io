@@ -66,10 +66,9 @@
   ],
   "certificates": [
     {
-      "title": "IBM Data Engineering",
+      "name": "IBM Data Engineering",
       "date": "09-2025",
-      "awarder": "IBM| Coursera",
-      "summary": "Professional Certificate in Data Engineering, with coursework in Python for Data Science, Relational Databases & SQL, ETL & Data Pipelines, Data Warehousing, Big Data (Spark, Hadoop), Machine Learning, and BI Dashboards (IBM Cognos Analytics, Google Looker).'"
+      "issuer": "IBM| Coursera"
     }
   ],
   "publications": [
