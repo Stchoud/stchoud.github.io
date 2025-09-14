@@ -16,23 +16,7 @@
       "endDate": "Present",
       "summary": "Provided comprehensive courses in diverse mathematical fields to over 80 undergraduate and postgraduate students. I also guided students through their assignments in Python, R, and SQL, covering aspects of development and data science projects, including data cura-tion, web scraping, statistical analysis, mathematical modelling, and effectively communi-cated complex technical subjects in an accessible manner.",
       "highlights": ["Machine Learning Projects", "Data Science Projects", "Excel/VBA Projects", "Mathematics Tutoring", "Programming Tutoring"]
-    },
-    {
-      "name": "Elementary School Teacher",
-      "position": "Zygouraki-Leontioy Centre of Creative Activities for Children",
-      "url": "https://mysafari.gr/listing/zygouraki-leontiou-kentro-meletis-agioi-anargyroi/",
-      "startDate": "01-2024",
-      "endDate": "06-2024",
-      "summary": "Tutored and supported 8+ elementary students per hour in completing math assignments."
-    },
-    {
-      "name": "Ballroom Dance Instructor",
-      "position": "The Dance Club, The Mall of Dance",
-      "url": "https://www.thedanceclub.gr/",
-      "startDate": "09-2016",
-      "endDate": "07-2022",
-      "summary": "Taught, choreographed, and competed in Latin, European, and Modern ballroom dances with students aged 15-65. Mentored 5 students who are now professional dancers."
-    }
+     }
   ],
   "education": [
     {
